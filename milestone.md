@@ -2,7 +2,7 @@
 layout: page
 title: "milestone"
 description: ""
-header-img: "img/zhihu.jpg"
+header-img: "img/howg.jpg"
 ---
 
 
