@@ -1,6 +1,6 @@
 # Site settings
 title: 请不要回答
-header-img: "img/wu1.jpg"
+header-img: "img/howg.jpg"
 tagline: ""  
 description: ""  
 baseurl: ""
@@ -44,7 +44,7 @@ defaults:
     values:
       layout: "post"
       author: "monitor1379"
-      header-img: "img/wu1.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/howg.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
